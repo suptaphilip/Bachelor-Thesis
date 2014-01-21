@@ -1,10 +1,9 @@
-
 # Autonomous Robot Navigation system Using Optical Mouse-based Odometry, Line Following and End Of Line Detection Robot
 
 ###### A thesis submitted By 
->Supta Richard Philip	(ID: 03-04432-3) <br />
->Amlan  Chowdhury	(ID: 02-03651-3) <br />
->Tohedul Islam	(ID: 03-04313-3)
+>[Supta Richard Philip](http://www.linkedin.com/in/suptaphilip) <br />
+>[Amlan  Chowdhury](http://www.linkedin.com/pub/amlan-chowdhury/20/231/73a) <br />
+>[Tohedul Islam](https://www.facebook.com/tohedul.islam.1)
 
 
 ### Abstract
