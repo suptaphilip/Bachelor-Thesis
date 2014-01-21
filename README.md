@@ -14,3 +14,10 @@ We also have implemented a line following algorithm and built a corresponding re
 Bachelor Thesis [LAP Lambert Publishing](https://www.lap-publishing.com/catalog/details//store/gb/book/978-3-659-10855-6/autonomous-robot-navigation-system-and-line-following-robot "LAP Lambert Publishing") link.
 
 [PDF ebook](http://suptaphilip.github.io/Bachelor-Thesis/docs/978-3-659-10855-6.pdf)
+
+
+###contact
+
+Git page @http://suptaphilip.github.io/Bachelor-Thesis/
+
+If you have any query, please email me @supta.philip@gmail.com .
